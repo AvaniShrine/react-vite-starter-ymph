@@ -135,7 +135,7 @@ async function attachPdfToAccount({
       Authorization: `Zoho-oauthtoken ${accessToken}`,
       ...formData.getHeaders()
     },
-    body: formData
+   // body: formData
   })
 
   const raw = await res.text()

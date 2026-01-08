@@ -1,0 +1,30 @@
+{
+  "defaults": {
+    "project": 1,
+    "env": 1
+  },
+  "actives": {
+    "project": 1,
+    "env": 1
+  },
+  "projects": [
+    {
+      "idx": 1,
+      "id": "24314000000020010",
+      "name": "Product-list-share",
+      "domain": {
+        "id": "10114903846",
+        "name": "product-list-share-858515935.development"
+      },
+      "timezone": "America/Los_Angeles",
+      "env": [
+        {
+          "idx": 1,
+          "id": "858515935",
+          "name": "Development",
+          "type": 3
+        }
+      ]
+    }
+  ]
+}

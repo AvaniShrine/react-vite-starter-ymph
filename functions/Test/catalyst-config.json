@@ -1,0 +1,11 @@
+{
+	"deployment": {
+		"name": "Test",
+		"stack": "java8",
+		"type": "basicio",
+		"env_variables": {}
+	},
+	"execution": {
+		"main": "Test"
+	}
+}
